@@ -1,0 +1,49 @@
+<resources>
+    <string name="description">Créée le 24 février 1957, l\'Université de Dakar fut officiellement inaugurée le 09 décembre 1959 après une longue évolution marquée par :
+- la création d\'une école africaine de médecine, première ébauche d\'un enseignement supérieur en Afrique en 1918 (décret du 14 janvier 1918);
+- la création de l\'Institut Français d\'Afrique Noire (IFAN) en 1936;
+- la création d\'un certificat de Physique, Chimie et Biologie (PCB), préparatoire aux études médicales et par l\'ouverture au début des années cinquante d\'écoles supérieures académiquement rattachées à l\'Université de Bordeaux dans le cadre de ce qui fut appelé en 1950, Institut des Hautes Etudes de Dakar;
+- l\'érection de facultés indépendantes en lieu et place de ces écoles supérieures pour former la 18ème Université Française, académiquement rattachée aux Universités de Paris et de Bordeaux, en 1957;
+- le changement de dénomination de l\'Université de Dakar, qui devient Université Cheikh Anta Diop de Dakar le 30 mars 1987;
+- la réforme pédagogique issue de la Concertation Nationale sur l\'Enseignement Supérieure et la création de la faculté des Sciences Economiques et de Gestion (FASEG) en 1994;
+- l\'introduction de la réforme LMD en 2003;
+- la création de la Faculté des Sciences et Technologies de l\'Education et de la Formation (FASTEF) en 2004;
+- la réforme des études doctorales en 2005.</string>
+    <string name="app_name">MyUcad</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="connection">Connection</string>
+    <string name="connect">Connect</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">admin@admin</string>
+    <string name="presentation">Presentation</string>
+    <string name="formation">Formation</string>
+    <string name="university">University</string>
+    <string name="mark">Mark</string>
+    <string name="events">Events</string>
+    <string name="help">Helps</string>
+    <string name="back">Back</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="degrees">Degrees</string>
+    <string name="o_level">O level</string>
+    <string name="bachelor">Bachelor</string>
+    <string name="master">Master</string>
+    <string name="save">Save</string>
+    <string name="welcome">welcome</string>
+    <string name="wait">Please wait</string>
+    <string name="error_field">Required field</string>
+    <string name="error_connection">Connection error</string>
+    <string name="error_parameter">Error parameters</string>
+    <string name="success_inscription">Inscription success</string>
+    <string name="error_inscription">Inscription failed</string>
+    <string name="error_create">User not created</string>
+    <string name="error_update">User not updated</string>
+    <string name="error_delete">User not deleted</string>
+    <string name="error_list">Users not listed</string>
+    <string name="success_create">User created</string>
+    <string name="success_update">User updated</string>
+    <string name="success_delete">User deleted</string>
+    <string name="success_list">Users listed</string>
+
+</resources>
